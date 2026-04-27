@@ -1,0 +1,1 @@
+Replaced assets/js/main.js with a clean validated copy to remove duplicated closing braces.

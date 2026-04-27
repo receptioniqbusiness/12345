@@ -1,0 +1,2 @@
+This package fixes the malformed JavaScript string in assets/js/main.js
+that caused Vite import-analysis to fail.
